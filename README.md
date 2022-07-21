@@ -9,4 +9,5 @@ Dart SDK version: 2.16.1 (stable)
 
 ## Como execultar
 docker-compose up
+
 dart run
